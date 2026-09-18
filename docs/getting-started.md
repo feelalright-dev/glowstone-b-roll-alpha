@@ -4,12 +4,12 @@ Glowstone B-Roll Alpha takes you from a script to a reviewed visual plan and an 
 
 ## 1. Download the Alpha
 
-Use a trusted release source. The public release hub currently has placeholders because the first GitHub Release has not been published yet.
+Download the Windows packages from the trusted [Glowstone B-Roll Alpha v0.1.0 GitHub Release](https://github.com/feelalright-dev/glowstone-b-roll-alpha/releases/tag/v0.1.0).
 
-Choose one of the Windows packages when they become available:
+Choose one of the Windows packages:
 
-- **Installer**: installs the application and can create a desktop shortcut.
-- **Portable**: runs from the folder where you place it and does not use an installer.
+- [**Installer**](https://github.com/feelalright-dev/glowstone-b-roll-alpha/releases/download/v0.1.0/Glowstone-B-Roll-Alpha-Setup-0.1.0.exe): installs the application and can create a desktop shortcut.
+- [**Portable**](https://github.com/feelalright-dev/glowstone-b-roll-alpha/releases/download/v0.1.0/Glowstone-B-Roll-Alpha-Portable-0.1.0.exe): runs from the folder where you place it and does not use an installer.
 
 The Windows build is unsigned, so SmartScreen may show a warning on first launch. Continue only when you trust the source of the file and have checked its published checksum.
 

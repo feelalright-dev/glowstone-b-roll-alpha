@@ -4,12 +4,12 @@ Glowstone B-Roll Alpha turns a script into semantic beats, visual research, and 
 
 It is a free Windows desktop Alpha for creators and researchers. The workflow is:
 
-`paste your script → app turns it into semantic beats → visual research → timeline handoff into Adobe Premier or DaVinci Resolve`
+`paste your script → app turns it into semantic beats → visual research → timeline handoff into Adobe Premiere or DaVinci Resolve`
 
 This repository is a public release and discovery hub. It contains documentation, release notes, and issue intake only. The application source code is private and is not included here.
 ![Glowstone B-Roll Alpha showing semantic beats, preview, providers, and results](assets/screenshots/Screenshot_1.jpg)
 
-Additional captures:
+Additional screenshots:
 
 - [Shot strip and query breakdown](assets/screenshots/Screenshot_2.jpg)
 - [Project setup and preview](assets/screenshots/Screenshot_3.jpg)
@@ -18,14 +18,14 @@ Additional captures:
 
 Glowstone B-Roll Alpha is a pre-release application intended for careful real use and feedback.
 
-The app helps you plan and find b-roll footage, research visuals. It is not a video editor. You review the suggested assets, queries, and media yourself, then finish the project in your editor.
+The app helps plan b-roll, find footage, and research visuals. It is not a video editor. You review the suggested assets, queries, and media yourself, then finish the project in your editor.
 
 ## Current provider boundary
 
 ### Asset and stock providers
 
-- **Pexels** supports generated searches and automatic fill. You provide your own Pexels API key.
-- **Pixabay** supports generated searches and automatic fill. You provide your own Pixabay API key.
+- **Pexels** supports generated searches and automatic fill. You provide your own [Pexels API key](https://www.pexels.com/api/).
+- **Pixabay** supports generated searches and automatic fill. You provide your own [Pixabay API key](https://pixabay.com/api/docs/).
 - **NASA** is a manual, search-first source for images and videos. It does not require an API key and is not used by default automatic fill.
 
 ### AI and model providers
@@ -36,8 +36,8 @@ The app helps you plan and find b-roll footage, research visuals. It is not a vi
 
 ## Downloads
 
-- Installer: **PLACEHOLDER — add the stable latest-release Setup EXE link**
-- Portable: **PLACEHOLDER — add the stable latest-release Portable EXE link**
+- Installer: https://github.com/feelalright-dev/glowstone-b-roll-alpha/releases/download/v0.1.0/Glowstone-B-Roll-Alpha-Setup-0.1.0.exe
+- Portable: https://github.com/feelalright-dev/glowstone-b-roll-alpha/releases/download/v0.1.0/Glowstone-B-Roll-Alpha-Portable-0.1.0.exe
 
 ## Typical workflow
 
@@ -70,8 +70,19 @@ The app helps you plan and find b-roll footage, research visuals. It is not a vi
 - Feedback: [GitHub Issues](https://github.com/feelalright-dev/glowstone-b-roll-alpha/issues/new/choose)
 - Help and support: [support@feelalright.dev](mailto:support@feelalright.dev)
 
-For a reproducible bug, use the [bug-report template](.github/ISSUE_TEMPLATE/bug_report.md) once GitHub Issues are enabled. Do not include API keys, private scripts, or other sensitive material.
+For a reproducible bug, use the [bug-report template](.github/ISSUE_TEMPLATE/bug_report.md). Do not include API keys, private scripts, or other sensitive material.
 
 ## License
 
-`LICENSE.txt` contains the proprietary freeware notice for the Glowstone B-Roll Alpha application and its distribution packages. No source code or redistribution right is granted by this documentation hub.
+Glowstone B-Roll Alpha
+Copyright (c) 2026 feelalright.dev. All rights reserved.
+
+Glowstone B-Roll Alpha is proprietary freeware. You may use this pre-release application for your own personal or commercial work at no charge.
+
+You may not copy, redistribute, resell, sublicense, rent, lease, publish, or modify this application or its installer or portable distribution without prior written permission from feelalright.dev. This notice does not grant rights to the source code, trademarks, or branding.
+
+The application may connect to third-party model and media services. Those services, and media obtained through them, are governed by their own terms, licenses, attribution requirements, and usage restrictions. You are responsible for reviewing and following those requirements.
+
+Glowstone B-Roll Alpha is provided "as is" and without warranties of any kind, to the fullest extent permitted by applicable law. feelalright.dev is not responsible for loss or damage arising from use of the application or third-party services.
+
+This notice applies to the Glowstone B-Roll Alpha application and its distribution packages. Third-party software included with the application remains subject to its own applicable license terms.

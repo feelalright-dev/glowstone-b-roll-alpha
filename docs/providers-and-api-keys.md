@@ -6,11 +6,11 @@ Glowstone B-Roll Alpha has two provider groups: asset providers that help you re
 
 ### Pexels
 
-Pexels supports generated searches and automatic fill for images and videos. Add your own Pexels API key in Settings when you want to use it.
+Pexels supports generated searches and automatic fill for images and videos. Get a key from the [Pexels API page](https://www.pexels.com/api/), then add your own Pexels API key in Settings when you want to use it.
 
 ### Pixabay
 
-Pixabay supports generated searches and automatic fill for images and videos. Add your own Pixabay API key in Settings when you want to use it.
+Pixabay supports generated searches and automatic fill for images and videos. Use the [Pixabay API documentation](https://pixabay.com/api/docs/) to access a key, then add your own Pixabay API key in Settings when you want to use it.
 
 ### NASA
 
