@@ -1,0 +1,17 @@
+# This repository is a documentation and release hub. Keep app output and
+# local state out of the Git history; binaries belong in GitHub Releases.
+node_modules/
+dist/
+desktop-dist/
+*.exe
+*.msi
+*.zip
+*.blockmap
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store

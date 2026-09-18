@@ -1,0 +1,12 @@
+Glowstone B-Roll Alpha
+Copyright (c) 2026 feelalright.dev. All rights reserved.
+
+Glowstone B-Roll Alpha is proprietary freeware. You may use this pre-release application for your own personal or commercial work at no charge.
+
+You may not copy, redistribute, resell, sublicense, rent, lease, publish, or modify this application or its installer or portable distribution without prior written permission from feelalright.dev. This notice does not grant rights to the source code, trademarks, or branding.
+
+The application may connect to third-party model and media services. Those services, and media obtained through them, are governed by their own terms, licenses, attribution requirements, and usage restrictions. You are responsible for reviewing and following those requirements.
+
+Glowstone B-Roll Alpha is provided "as is" and without warranties of any kind, to the fullest extent permitted by applicable law. feelalright.dev is not responsible for loss or damage arising from use of the application or third-party services.
+
+This notice applies to the Glowstone B-Roll Alpha application and its distribution packages. Third-party software included with the application remains subject to its own applicable license terms.
