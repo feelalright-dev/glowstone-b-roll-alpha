@@ -4,15 +4,21 @@ Glowstone B-Roll Alpha turns a script into semantic beats, visual research, and 
 
 It is a free Windows desktop Alpha for creators and researchers. The workflow is:
 
-`script → semantic beats → visual research → editor handoff`
+`paste your script → app turns it into semantic beats → visual research → timeline handoff into Adobe Premier or DaVinci Resolve`
 
 This repository is a public release and discovery hub. It contains documentation, release notes, and issue intake only. The application source code is private and is not included here.
+![Glowstone B-Roll Alpha showing semantic beats, preview, providers, and results](assets/screenshots/Screenshot_1.jpg)
+
+Additional captures:
+
+- [Shot strip and query breakdown](assets/screenshots/Screenshot_2.jpg)
+- [Project setup and preview](assets/screenshots/Screenshot_3.jpg)
 
 ## Alpha status
 
-Glowstone B-Roll Alpha is proprietary freeware. It is a pre-release application intended for careful real-world use and feedback, not a finished mass-market product.
+Glowstone B-Roll Alpha is a pre-release application intended for careful real use and feedback.
 
-The app helps you plan and research visuals. It is not a video editor. You review the suggested beats, queries, and media yourself, then finish the project in your editor.
+The app helps you plan and find b-roll footage, research visuals. It is not a video editor. You review the suggested assets, queries, and media yourself, then finish the project in your editor.
 
 ## Current provider boundary
 
@@ -26,24 +32,12 @@ The app helps you plan and research visuals. It is not a video editor. You revie
 
 - **Ollama** connects to a model server running locally on your computer.
 - **LM Studio** connects to a local OpenAI-compatible model server.
-- **OpenRouter** is an optional hosted model provider. You provide your own API key; your script and segment text are sent to OpenRouter when you analyze with it.
-
-AI analysis and media suggestions are assistance, not a guarantee of factual, visual, or licensing suitability. Review the result before using it.
-
-Third-party providers have their own terms, licenses, attribution requirements, privacy practices, and usage restrictions. You are responsible for checking those requirements before publishing media.
+- **OpenRouter** is a hosted model provider. You provide your own API key; your script and segment text are sent to OpenRouter when you analyze with it.
 
 ## Downloads
 
-There is no GitHub Release yet. The download entries below are placeholders and must be replaced after the first release exists:
-
 - Installer: **PLACEHOLDER — add the stable latest-release Setup EXE link**
 - Portable: **PLACEHOLDER — add the stable latest-release Portable EXE link**
-
-The current Alpha build metadata is version `0.1.0`. Release files are expected to use the names `Glowstone-B-Roll-Alpha-Setup-<version>.exe` and `Glowstone-B-Roll-Alpha-Portable-<version>.exe`.
-
-## Windows note
-
-The Alpha Windows application is unsigned. Windows SmartScreen may show a warning on first launch. Continue only when you obtained the application from a source you trust and the release checksums match.
 
 ## Typical workflow
 
@@ -58,10 +52,7 @@ The Alpha Windows application is unsigned. Windows SmartScreen may show a warnin
 ## Alpha limitations
 
 - This is a planning, search, and export tool, not a video editor.
-- Model output can be incomplete, inconsistent, or unsuitable for a particular script.
-- Search results and downloaded media need human review.
-- Provider availability, API limits, model servers, network conditions, and licensing terms can affect the workflow.
-- Longer scripts may be more reliable when divided into manageable projects or sections.
+- Limited pull of available providers.
 
 ## Documentation
 
@@ -80,20 +71,6 @@ The Alpha Windows application is unsigned. Windows SmartScreen may show a warnin
 - Help and support: [support@feelalright.dev](mailto:support@feelalright.dev)
 
 For a reproducible bug, use the [bug-report template](.github/ISSUE_TEMPLATE/bug_report.md) once GitHub Issues are enabled. Do not include API keys, private scripts, or other sensitive material.
-
-## Maintainer checklist
-
-Before making this hub public or publishing the first app release:
-
-- Confirm the docs describe the approved, clean Alpha source snapshot and app version `0.1.0`. The source repository remains private.
-- Confirm the reviewed proprietary-freeware license is final for the app and its distribution packages.
-- Replace the download placeholders after the first release is published, and enable GitHub private vulnerability reporting before public announcement.
-- Run a final secret and scope scan. This repository must contain docs and release metadata only; no source, package files, local state, build output, or provider keys.
-- Create a GitHub Release from a docs-only tag.
-- Upload the Setup EXE, Portable EXE, `Quick Start.txt`, `LICENSE.txt`, and `SHA256SUMS.txt` to that GitHub Release. Keep binaries out of this repository.
-- Generate checksums from the exact final files and verify them from a clean download.
-- Add release notes and known issues.
-- Replace the README placeholders with stable latest-release links after the first release exists.
 
 ## License
 
