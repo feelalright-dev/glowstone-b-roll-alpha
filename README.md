@@ -76,8 +76,8 @@ The Alpha Windows application is unsigned. Windows SmartScreen may show a warnin
 
 ## Feedback and help
 
-- Feedback: **PLACEHOLDER — add the final feedback link before publication**
-- Help and support: **PLACEHOLDER — add the final support link before publication**
+- Feedback: [GitHub Issues](https://github.com/feelalright-dev/glowstone-b-roll-alpha/issues/new/choose)
+- Help and support: [support@feelalright.dev](mailto:support@feelalright.dev)
 
 For a reproducible bug, use the [bug-report template](.github/ISSUE_TEMPLATE/bug_report.md) once GitHub Issues are enabled. Do not include API keys, private scripts, or other sensitive material.
 
@@ -87,7 +87,7 @@ Before making this hub public or publishing the first app release:
 
 - Confirm the docs describe the approved, clean Alpha source snapshot and app version `0.1.0`. The source repository remains private.
 - Confirm the reviewed proprietary-freeware license is final for the app and its distribution packages.
-- Replace every download, feedback, support, and security placeholder.
+- Replace the download placeholders after the first release is published, and enable GitHub private vulnerability reporting before public announcement.
 - Run a final secret and scope scan. This repository must contain docs and release metadata only; no source, package files, local state, build output, or provider keys.
 - Create a GitHub Release from a docs-only tag.
 - Upload the Setup EXE, Portable EXE, `Quick Start.txt`, `LICENSE.txt`, and `SHA256SUMS.txt` to that GitHub Release. Keep binaries out of this repository.
