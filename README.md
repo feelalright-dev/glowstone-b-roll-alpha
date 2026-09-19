@@ -7,6 +7,9 @@ It is a free Windows desktop Alpha for creators and researchers. The workflow is
 `paste your script → app turns it into semantic beats → visual research → timeline handoff into Adobe Premiere or DaVinci Resolve`
 
 This repository is a public release and discovery hub. It contains documentation, release notes, and issue intake only. The application source code is private and is not included here.
+
+> **Looking for the current Glowstone build?** This repository contains the free Alpha edition. Visit the [official Glowstone website](https://glowstone.feelalright.dev), see [current supporter access](https://glowstone.feelalright.dev/supporter), or follow [feelalright.dev on Boosty](https://boosty.to/feelalright.dev).
+
 ![Glowstone B-Roll Alpha showing semantic beats, preview, providers, and results](assets/screenshots/Screenshot_1.jpg)
 
 Additional screenshots:
@@ -67,6 +70,9 @@ The app helps plan b-roll, find footage, and research visuals. It is not a video
 
 ## Feedback and help
 
+- Official website: [glowstone.feelalright.dev](https://glowstone.feelalright.dev)
+- Current supporter build and access: [Glowstone supporter access](https://glowstone.feelalright.dev/supporter)
+- Development updates and support: [feelalright.dev on Boosty](https://boosty.to/feelalright.dev)
 - Feedback: [GitHub Issues](https://github.com/feelalright-dev/glowstone-b-roll-alpha/issues/new/choose)
 - Help and support: [support@feelalright.dev](mailto:support@feelalright.dev)
 
