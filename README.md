@@ -58,7 +58,7 @@ The app helps plan b-roll, find footage, and research visuals. It is not a video
 ## Alpha limitations
 
 - This is a planning, search, and export tool, not a video editor.
-- Limited pull of available providers.
+- Limited pool of available providers.
 
 ## Documentation
 
