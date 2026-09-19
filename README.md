@@ -2,8 +2,8 @@
 
 ![Logo](assets/screenshots/logo.png)
 
-> [!NOTE]
-> **Looking for the latest Glowstone build?** This repository is for the free Alpha version. Visit the [official Glowstone website](https://glowstone.feelalright.dev) for the current product, follow and support [development on Boosty](https://boosty.to/feelalright.dev).
+> [!IMPORTANT]
+> **Looking for the latest Glowstone build?** Visit the [official Glowstone website](https://glowstone.feelalright.dev) for the current version of the app, follow and support [development on Boosty](https://boosty.to/feelalright.dev).
 
 Glowstone B-Roll Alpha turns a script into semantic beats, visual research, and an editor handoff.
 
